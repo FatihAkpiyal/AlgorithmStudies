@@ -1,0 +1,15 @@
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\bin\Debug\net8.0\ConsoleUygulamasi.exe
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\bin\Debug\net8.0\ConsoleUygulamasi.deps.json
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\bin\Debug\net8.0\ConsoleUygulamasi.runtimeconfig.json
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\bin\Debug\net8.0\ConsoleUygulamasi.dll
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\bin\Debug\net8.0\ConsoleUygulamasi.pdb
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\ConsoleUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\ConsoleUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\ConsoleUygulamasi.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\ConsoleUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\ConsoleUygulamasi.sourcelink.json
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\ConsoleUygulamasi.dll
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\refint\ConsoleUygulamasi.dll
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\ConsoleUygulamasi.pdb
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\ConsoleUygulamasi.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\FitAI\ConsoleUygulamasi\ConsoleUygulamasi\obj\Debug\net8.0\ref\ConsoleUygulamasi.dll
