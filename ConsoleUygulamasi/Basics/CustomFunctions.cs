@@ -226,5 +226,16 @@ namespace ConsoleUygulamasi.Basics
             Console.WriteLine(text);
         }
 
+        public static void CheckDoubleFive(int[] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i] == 5 && arr[i+1] ==5)
+                {
+
+                }
+            }
+        }
+
     }
 }

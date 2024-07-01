@@ -1,4 +1,5 @@
-﻿using ConsoleUygulamasi.Basics;
+﻿using ConsoleUygulamasi.AlgorithmExamples;
+using ConsoleUygulamasi.Basics;
 using System;
 
 namespace AlgorithmExperiements
@@ -54,6 +55,29 @@ namespace AlgorithmExperiements
             //CustomFunctions.DeleteFirstAndLast("fatihfatih");
 
 
+            /*---------------------------------------------------------------------------------------*/
+
+
+            //ForLoops.TriangleNums();
+
+            //ForLoops.TriangleNumsSort();
+
+            //ForLoops.TriangleIncrease();
+
+            /*---------------------------------------------------------------------------------------*/
+
+            //StringProblems.StringLength("fatih");
+
+            //StringProblems.StringReverser("fatih");
+
+            //StringProblems.WordCounter("Beni işe alır mısınız dostum?");
+
+
+            //LINQExamples.BeginEndWithLinq(new string[] { "Aydın", "izmir", "istanbul","ibir" }, "i", "r");
+
+            //LINQExamples.GreaterThanEightee(new int[] { 15, 25, 42, 52, 90, 89, 82, 81 });
+
+            Console.WriteLine(LINQExamples.StringChallenge(Console.ReadLine()));
         }
     }
 

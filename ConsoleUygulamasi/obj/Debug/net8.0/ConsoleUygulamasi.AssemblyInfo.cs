@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleUygulamasi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa4655c156d2afa80869de9e9621c22127bd979")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c17d3ee012e3c743f5524fe152c1a7f4cb079a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleUygulamasi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleUygulamasi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
