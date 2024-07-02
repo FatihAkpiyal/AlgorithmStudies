@@ -1,6 +1,7 @@
 ﻿using ConsoleUygulamasi.AlgorithmExamples;
 using ConsoleUygulamasi.Basics;
 using System;
+using System.Text.RegularExpressions;
 
 namespace AlgorithmExperiements
 {
@@ -77,7 +78,22 @@ namespace AlgorithmExperiements
 
             //LINQExamples.GreaterThanEightee(new int[] { 15, 25, 42, 52, 90, 89, 82, 81 });
 
-            Console.WriteLine(LINQExamples.StringChallenge(Console.ReadLine()));
+            //Console.WriteLine(LINQExamples.StringChallenge(Console.ReadLine()));
+
+
+            string input = Console.ReadLine();
+            
+            var match = Regex.Match(input, @"new int\[] \{(.+?)\}");
+            if (match.Success)
+            {
+                int[] inputArr = match.Groups[1].Value.Split(',').Select(int.Parse).ToArray();
+                // Sonucu yazdır
+                Console.WriteLine(InterViewSolutions.ArrayChallenge(inputArr));
+            }
+            else
+            {
+                Console.WriteLine("Invalid input format.");
+            }
         }
     }
 
